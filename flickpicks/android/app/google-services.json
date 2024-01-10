@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "692054854713",
+    "firebase_url": "https://flickpicks-cf5d5-default-rtdb.firebaseio.com",
+    "project_id": "flickpicks-cf5d5",
+    "storage_bucket": "flickpicks-cf5d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692054854713:android:e46a1fbe91056e7d0ed1e8",
+        "android_client_info": {
+          "package_name": "com.example.flickpicks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBehANIjPHCgZyKe0Cx_7lixC8M56vOWHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

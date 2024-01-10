@@ -1,0 +1,1 @@
+ /home/pedro/Documentos/Flutterzin/FlickPicks/flickpicks/.dart_tool/flutter_build/dfc24b5658967167b4e186ccaa57d089/native_assets.yaml: 
